@@ -1,6 +1,5 @@
-﻿using System;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
+features/Ex23
+using System;
 namespace Areas
 {
     public class Ex23
